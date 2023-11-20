@@ -34,6 +34,10 @@ main {
     font-weight: 100;
 }
 
+.display-result {
+    height: 2rem;
+}
+
 .button-container {
     display: grid;
     grid-template-columns: repeat(4, 55px);
